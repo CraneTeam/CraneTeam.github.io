@@ -125,7 +125,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Dwaipayan (DD)"
         role: "(He/him/his)"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/dd.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
