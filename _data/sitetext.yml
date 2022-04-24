@@ -12,9 +12,9 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    text:  The Computational Research Access NEtwork (CRANE)
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#about-us"
 
   services:
     title: "Services"
@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "The Computational Research Access NEtwork (CRANE) team is comprised of computational physicists and chemists from across the nation who were brought together by a collective passion for teaching and mentorship. Their expertise spans a diverse range of topics, from modeling molecular dynamics to understanding fluid flow in astrophysical plasmas. Although the seminar was initially conceived as a training program for undergraduate researchers in plasma physics, the teaching team has expanded the curriculum to cover computational methods used in their own fields of expertise, namely condensed matter physics and physical chemistry.**Markdown** supported."
     section: about
 
   clients:
@@ -254,7 +254,8 @@ es: &DEFAULT_ES
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"
     text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, 
+             quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: equipo
     people:
       - name: "Kay Garland"
