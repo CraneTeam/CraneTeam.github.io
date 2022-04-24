@@ -185,7 +185,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Yasmeen Musthafa"
         role: "(They/them/theirs)"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
