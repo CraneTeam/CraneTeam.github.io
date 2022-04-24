@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text:  The Computational Research Access NEtwork (CRANE)
+    title: Welcome to our Site!
+    text:  CRANE
     button: Tell Me More
     buttonlink: "#about-us"
 
