@@ -71,7 +71,12 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "The Computational Research Access NEtwork (CRANE) team is comprised of computational physicists and chemists from across the nation who were brought together by a collective passion for teaching and mentorship. Their expertise spans a diverse range of topics, from modeling molecular dynamics to understanding fluid flow in astrophysical plasmas. Although the seminar was initially conceived as a training program for undergraduate researchers in plasma physics, the teaching team has expanded the curriculum to cover computational methods used in their own fields of expertise, namely condensed matter physics and physical chemistry.**Markdown** supported."
+    body: "The **C**omputational **R**esearch **A**ccess **NE**twork (**CRANE**) team is comprised of computational physicists and 
+           chemists from across the nation who were brought together by a collective passion for teaching and mentorship. 
+           Their expertise spans a diverse range of topics, from modeling molecular dynamics to understanding fluid flow in astrophysical plasmas. 
+           Although the seminar was initially conceived as a training program for undergraduate researchers in plasma physics, 
+           the teaching team has expanded the curriculum to cover computational methods used in their own fields of expertise, 
+           namely condensed matter physics and physical chemistry."
     section: about
 
   clients:
