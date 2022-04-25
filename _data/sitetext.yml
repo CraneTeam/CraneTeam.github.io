@@ -23,10 +23,10 @@ en: &DEFAULT_EN
     list:
       - title: "Workshops"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fa-solid fa-rectangle-terminal #find more at https://fontawesome.com/icons
       - title: "Mixers"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+        icon: fas fa-users
       - title: "Mentorship" #"[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
         icon: fas fa-hands-helping
