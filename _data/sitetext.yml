@@ -44,23 +44,23 @@ en: &DEFAULT_EN
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
+      - title: "Workshop: Numerical Methods"
+        year: "April 2022"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/happening_now.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
+      - title: "Mixer"
+        year: "May 2022"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/near_future.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
+      - title: "Particle-in-Cell Methods"
+        year: "June 2022"
         desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/planning_stage.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
+      - title: "Advanced Algorithms"
+        year: "Summer 2022"
         desc: "Your description here, **Markdown** is fully supported."
         image: assets/img/timeline/distant_future.jpg
         alt:
