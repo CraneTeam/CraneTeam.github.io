@@ -155,7 +155,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Landry Horimbere"
         role: "(He/him/his)"
-        image: assets/img/team/Landry.jpg
+        image: assets/img/team/Landry.jpeg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
