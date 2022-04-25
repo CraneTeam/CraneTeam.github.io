@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-laptop
       - title: "Mentorship" #"[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
-        icon: fad fa-hands-helping
+        icon: fas fa-hands-helping
 
   portfolio:
     title: "Workshops"
