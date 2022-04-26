@@ -1,8 +1,8 @@
 ---
 title: Part I: Introduction to Python
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-#image: assets/img/portfolio/01-full.jpg
-#alt: Shirts on a hanger
+image: assets/img/portfolio/python-powered-h.png
+alt: Python Powered Logo
 
 caption:
   title: Introduction to Python
