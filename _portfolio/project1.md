@@ -1,5 +1,5 @@
 ---
-title: Part I: Introduction to Python
+title: Part I - Introduction to Python
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 
 caption:
@@ -7,6 +7,7 @@ caption:
   subtitle: March 2nd, 2022 to March 19th, 2022
   thumbnail: assets/img/portfolio/python-powered-h.png
 ---
+A description 
 
 {:.list-inline}
 - **Week 1**
