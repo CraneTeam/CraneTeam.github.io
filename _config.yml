@@ -28,7 +28,14 @@ author     : DD
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: <script async src="https://www.googletagmanager.com/gtag/js?id=G-E111NZQHPN"></script>
+          <script>
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+
+                  gtag('config', 'G-E111NZQHPN');
+          </script> #Google Analytics tracking code here
 
 collections:
   portfolio:
