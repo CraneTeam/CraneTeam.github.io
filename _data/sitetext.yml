@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Together we have hoasted over 60 hours of workshop and served over 60 underrepresented students!
+    title: Together we have hosted over 60 hours of workshop and served over 60 underrepresented students!
     text:  CRANE
     button: Tell Me More
     buttonlink: "#about-us"
