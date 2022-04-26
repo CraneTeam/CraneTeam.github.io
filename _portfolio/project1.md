@@ -1,8 +1,6 @@
 ---
 title: Part I: Introduction to Python
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/python-powered-h.png
-alt: Python Powered Logo
 
 caption:
   title: Introduction to Python
@@ -22,7 +20,7 @@ caption:
 
 
 {:.list-inline}
-- **Week 2**
+- **Week 3**
 - Dates: March 16th (Wednesday) and March 19th (Saturday), 2022 @ 3pm PST/6 pm EST
 - Introduction to Python III: Data Analysis and Visualization
 
