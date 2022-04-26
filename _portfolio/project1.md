@@ -9,7 +9,18 @@ caption:
   subtitle: March 2nd, 2022 to March 19th, 2022
   thumbnail: assets/img/portfolio/python-powered-h.png
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Week 1
+Introduction to Python I: Syntax, Variables, and Arrays
+
+Wednesday, March 2nd and Saturday, March 5th, 2022 @ 3pm PST/6 pm EST
+Week 2
+Introduction to Python II: Loops, Functions, and Plotting
+
+Wednesday, March 9th and Saturday, March 12th, 2022 @ 3pm PST/6 pm EST
+Week 3
+Introduction to Python III: Data Analysis and Visualization
+
+Wednesday, March 16th and Saturday, March 19th, 2022 @ 3pm PST/6 pm EST 
 
 {:.list-inline}
 - Date: January 2017
