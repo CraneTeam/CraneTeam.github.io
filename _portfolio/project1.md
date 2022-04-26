@@ -1,6 +1,6 @@
 ---
 title: Part I - Introduction to Python
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+subtitle: Develop proficiency in Python and basic coding
 
 caption:
   title: Introduction to Python
