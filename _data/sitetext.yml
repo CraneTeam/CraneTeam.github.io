@@ -50,8 +50,8 @@ en: &DEFAULT_EN
         image: assets/img/timeline/happening_now.jpg
         alt:
       - title: "Mixer"
-        year: "May 2022"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        year: "May 11, 2022 - 10 am PDT/ 1 pm EDT"
+        desc: "Our guests are women and LGBTQ+ scientists, primarily BIPOC scientists, working in plasma physics and related fields. You’ll have an opportunity to network and hear their experiences working at universities, national labs, and private industry. Find out how they started doing scientific research and what their career path is like. BIPOC students are especially encouraged to join us!"
         image: assets/img/timeline/near_future.jpg
         alt:
       - title: "Particle-in-Cell Methods"
