@@ -37,4 +37,4 @@ caption:
 {:.list-inline}
 - **Week 6**
 - Dates: March 27th (Wednesday), 2022 @ 3pm PST/6 pm EST
-- The Fast Fourier Transform (FFT): Fourier transforms of 1D and 2D data, filterinf signals with FFT spectra
+- The Fast Fourier Transform (FFT): Fourier transforms of 1D and 2D data, filtering signals with FFT spectra
